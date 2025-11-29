@@ -22,6 +22,7 @@ docsdir = $(docdir)
 
 docs_DATA = README help.txt about.txt translators.txt ChangeLog\
 	COPYING.GPLv2 COPYING.LGPLv2.1
+	translation/help.ru.txt
 
 desktopdir = $(datadir)/applications
 desktop_DATA = deadbeef.desktop deadbeef_enqueue.desktop

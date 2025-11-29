@@ -103,6 +103,12 @@ Portuguese (Brazil)
 Romanian
  Mișu Moldovan <dumol@xfce.org>
 
+Russian
+ My most sincere gratitude to these incredible people:
+ Alexey Yakovenko <wakeroid@gmail.com>
+ Andrei Stepanov
+ Dmitriy Simbiriatin <slpiv@mail.ru>
+
 Sinhala
  amscata <amith@compsoc.lk>
 
