@@ -65,4 +65,4 @@ pacman -S mingw-w64-x86_64-jansson mingw-w64-x86_64-gtk3 mingw-w64-x86_64-gtk2 m
 * GTK3 uses [Windows-10](https://github.com/B00merang-Project/Windows-10) theme and [Windows-10-Icons](https://github.com/B00merang-Artwork/Windows-10) by default. If they are not in msys2 tree, then they must be manually placed in the `share/icons` and `share/themes`. A different theme can be specified by editing the `etc/gtk-3.0/settings.ini` file.
 
 ## Supporting this project
-Please don't support DeaDBeeF. There are people who need your money more. [For now though, click here to help fight poverty, it's free!](https://arab.org/click-to-help/poverty/) 
+Please don't support DeaDBeeF. There are people who need your money more. [For now though, click here to help fight poverty](https://arab.org/click-to-help/poverty/) [or here to help support Palestine](https://arab.org/click-to-help/palestine/). It's free!
