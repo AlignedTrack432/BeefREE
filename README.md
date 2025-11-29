@@ -1,38 +1,13 @@
 ## About
 
-DeaDBeeF is a multiple-platform music player for desktop operating systems.
+DeaDBeeF is a multiple-platform music player for desktop operating systems that has been [hostile to Russian speaking users](https://github.com/DeaDBeeF-Player/deadbeef/commit/d68495890fab7e3ac63674df72d8de82a592d78f) and [silenced those who spoke out](https://github.com/DeaDBeeF-Player/deadbeef/issues/2901).
 
-[The Official Website](http://deadbeef.sf.net).
+After seeing this, I decided to use my free time to restore the Russian translation of DeaDBeeF and expand it using machine translation, with human contributions welcome!
 
-If you wish to chat with developers, join us on [Discord](https://discord.gg/GTVvgSqZrr).
+This is a work in progress for now.
 
-## Download official releases (only GNU/Linux and Windows)
-
-[Downloads Page](https://deadbeef.sourceforge.io/download.html)
-
-## Download nightly (development) builds
-
-<sub><sup>NOTE: The macOS version has not been officially released, and has many unresolved issues and unimplemented features</sup></sub>
-
-[![Linux Build Status](https://github.com/DeaDBeeF-Player/deadbeef/workflows/Build%20for%20Linux/badge.svg)](https://github.com/DeaDBeeF-Player/deadbeef/actions/workflows/linuxbuild.yml)
-[![Windows Build Status](https://github.com/DeaDBeeF-Player/deadbeef/workflows/Build%20for%20Windows/badge.svg)](https://github.com/DeaDBeeF-Player/deadbeef/actions/workflows/windowsbuild.yml)
-[![macOS Build Status](https://github.com/DeaDBeeF-Player/deadbeef/workflows/Build%20for%20Mac/badge.svg)](https://github.com/DeaDBeeF-Player/deadbeef/actions/workflows/macbuild.yml)
-
-[Nightly GNU/Linux Builds](https://sourceforge.net/projects/deadbeef/files/Builds/master/linux/)
-
-[Nightly Windows Builds](https://sourceforge.net/projects/deadbeef/files/Builds/master/windows/)
-
-[Nightly macOS Builds](https://sourceforge.net/projects/deadbeef/files/Builds/master/macOS/)
-
-
-## Building DeaDBeeF from source
-
-### Linux, BSD and similar (GTK/*NIX version)
-
-The overall process is simple, but it's hard to figure out the dependencies.
-
-Please consult the [README file](README) in the same folder for more details,
-or visit the [wiki page](https://github.com/DeaDBeeF-Player/deadbeef/wiki/Detailed-Build-Instructions)
+## Install
+Visit the [wiki page](https://github.com/DeaDBeeF-Player/deadbeef/wiki/Detailed-Build-Instructions) for detailed instructions.
 
 If you have the dependencies - follow these simple steps:
 
